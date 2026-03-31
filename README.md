@@ -9,31 +9,22 @@
 
 <br/><br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
 
-> 국민대학교 소프트웨어학부 **알파프로젝트 I** | 2025-1학기 | 15주
 
 </div>
 
 <br/>
 
----
 
 ## 배경 및 목적
 
 교내 강의실 대여 절차는 **오프라인 서류 기반**으로 최소 3~5일이 소요되며, 학생 80% 이상이 절차 자체를 모를 만큼 접근성이 낮은 상태였습니다. ClassPick은 이 문제를 해결하기 위해 학생과 교직원이 함께 사용할 수 있는 온라인 실시간 예약 플랫폼을 구축했습니다.
 
+
 | | 기존 방식 | ClassPick |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | 대여 소요 시간 | 최소 3 ~ 5일 | 즉시 신청 |
 | 신청 방법 | 오프라인 서류 방문 제출 | 온라인 클릭 몇 번 |
 | 운영 시간 | 09:30 ~ 16:00 제한 | 24시간 |
@@ -42,7 +33,7 @@
 
 <br/>
 
----
+
 
 ## 주요 기능
 
@@ -64,7 +55,7 @@
 
 <br/>
 
----
+
 
 ## 유저 플로우
 
@@ -74,7 +65,7 @@
 
 <br/>
 
----
+
 
 ## 시스템 아키텍처
 
@@ -92,18 +83,17 @@
 
 <br/>
 
----
+
 
 ## 기술 스택
 
-<div align="center">
+<div align="left">
 
 | 분류 | 기술 |
-|:---:|:---|
+|:---|:---|
 | Frontend | Next.js · React · TypeScript · TailwindCSS · Zustand · Zod · Axios |
 | Backend | Spring Boot · Java 21 · Spring Security · JWT · JPA |
 | Database | MySQL (AWS RDS) · Redis (ElastiCache) · Amazon S3 |
-| AI | Python · PaddleOCR · NumPy |
 | Infra | AWS EC2 · ALB · Auto Scaling · Docker · GitHub Actions |
 | Monitoring | Sentry · Prometheus · Grafana |
 | 협업 | Jira · Figma · Postman · GitHub |
@@ -112,26 +102,26 @@
 
 <br/>
 
----
+
 
 ## 팀원
 
-<div align="center">
+<div align="left">
 
-| 이름 | 역할 | GitHub |
-|:---:|:---:|:---:|
-| 탁태현 | PM | [@takhyun12](https://github.com/takhyun12) |
-| 윤성욱 | Backend | [@wngktjd13](https://github.com/wngktjd13) |
-| 김민재 | Backend | [@kimminj](https://github.com/kimminj) |
-| 손대현 | Frontend | [@soondh](https://github.com/soondh) |
-| 이어진 | Frontend | [@leeeojin](https://github.com/leeeojin) |
-| 서명균 | UI/UX Design | [@seogyun](https://github.com/seogyun) |
+| 이름 | 역할 |
+|:---:|:---:|
+| 탁태현 | PM | 
+| 윤성욱 | Backend | 
+| 김민재 | Backend | 
+| 손대현 | Frontend | 
+| 이어진 | Frontend | 
+| 서명균 | UI/UX Design | 
 
 </div>
 
 <br/>
 
----
+
 
 ## 발표 자료
 
@@ -155,7 +145,7 @@
 
 <br/>
 
----
+
 
 <div align="center">
 

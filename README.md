@@ -1,16 +1,6 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=ClassPick&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=교내%20강의실%20대여%20플랫폼&descAlignY=62&descSize=20&descColor=c8d8ff&animation=fadeIn" />
+<img src="./docs/classpick_banner.png" width="1080"/>
 
-<br/>
-
-&nbsp;
-<a href="https://youtu.be/VfbLoOTYFNQ"><img src="https://img.shields.io/badge/시연 영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
-<br/><br/>
-
-
-<br/>
 
 
 </div>
@@ -124,6 +114,8 @@
 
 
 ## 발표 자료
+&nbsp;
+<a href="https://youtu.be/VfbLoOTYFNQ"><img src="https://img.shields.io/badge/시연 영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 <img src="./docs/classpick_slide-01.jpg" width="780"/>
 <img src="./docs/classpick_slide-02.jpg" width="780"/>
@@ -146,11 +138,3 @@
 <br/>
 
 
-
-<div align="center">
-
-더 나은 캠퍼스 공간 경험을 만듭니다
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer" />
-
-</div>

@@ -1,17 +1,11 @@
-
-<img src="./docs/classpick_banner.png" width="1080"/>
-
-
-
+<img src="../docs/classpick_banner.png" width="1080"/>
 </div>
 
 <br/>
 
-
 ## 배경 및 목적
 
 교내 강의실 대여 절차는 **오프라인 서류 기반**으로 최소 3~5일이 소요되며, 학생 80% 이상이 절차 자체를 모를 만큼 접근성이 낮은 상태였습니다. ClassPick은 이 문제를 해결하기 위해 학생과 교직원이 함께 사용할 수 있는 온라인 실시간 예약 플랫폼을 구축했습니다.
-
 
 | | 기존 방식 | ClassPick |
 |:---|:---|:---|
@@ -22,8 +16,6 @@
 | 노쇼 방지 | 수기 관리 | OCR 자동 검증 |
 
 <br/>
-
-
 
 ## 주요 기능
 
@@ -45,22 +37,18 @@
 
 <br/>
 
-
-
 ## 유저 플로우
 
 <div align="center">
-<img src="./docs/classpick_userflow.png" width="780"/>
+<img src="../docs/classpick_userflow.png" width="780"/>
 </div>
 
 <br/>
 
-
-
 ## 시스템 아키텍처
 
 <div align="center">
-<img src="./docs/classpick_architecture.png" width="780"/>
+<img src="../docs/classpick_architecture.png" width="780"/>
 </div>
 
 <br/>
@@ -72,8 +60,6 @@
 - 국민대학교 Authorization Server 와 연동한 **Google OAuth 2.0** 인증
 
 <br/>
-
-
 
 ## 기술 스택
 
@@ -92,14 +78,12 @@
 
 <br/>
 
-
-
 ## 팀원
 
 <div align="left">
 
 | 이름 | 역할 |
-|:---:|:---:|
+|:---|:---|
 | 탁태현 | PM | 
 | 윤성욱 | Backend | 
 | 김민재 | Backend | 
@@ -111,30 +95,43 @@
 
 <br/>
 
-
-
 ## 발표 자료
+
 &nbsp;
 <a href="https://youtu.be/VfbLoOTYFNQ"><img src="https://img.shields.io/badge/시연 영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-<img src="./docs/classpick_slide-01.jpg" width="780"/>
-<img src="./docs/classpick_slide-02.jpg" width="780"/>
-<img src="./docs/classpick_slide-03.jpg" width="780"/>
-<img src="./docs/classpick_slide-04.jpg" width="780"/>
-<img src="./docs/classpick_slide-05.jpg" width="780"/>
-<img src="./docs/classpick_slide-06.jpg" width="780"/>
-<img src="./docs/classpick_slide-07.jpg" width="780"/>
-<img src="./docs/classpick_slide-08.jpg" width="780"/>
-<img src="./docs/classpick_slide-09.jpg" width="780"/>
-<img src="./docs/classpick_slide-10.jpg" width="780"/>
-<img src="./docs/classpick_slide-11.jpg" width="780"/>
-<img src="./docs/classpick_slide-12.jpg" width="780"/>
-<img src="./docs/classpick_slide-13.jpg" width="780"/>
-<img src="./docs/classpick_slide-14.jpg" width="780"/>
-<img src="./docs/classpick_slide-15.jpg" width="780"/>
-<img src="./docs/classpick_slide-16.jpg" width="780"/>
-<img src="./docs/classpick_slide-17.jpg" width="780"/>
+<img src="../docs/classpick_slide-01.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-02.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-03.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-04.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-05.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-06.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-07.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-08.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-09.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-10.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-11.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-12.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-13.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-14.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-15.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-16.jpg" width="780"/>
+
+<img src="../docs/classpick_slide-17.jpg" width="780"/>
 
 <br/>
-
-
